@@ -1,6 +1,5 @@
 return {
     { id = "541253793405337600", reason = "Fxis Gay"},
-    { id = "1308669328253517887", reason = "Not Safe" },
     { id = "1448769037134856253", reason = "Not Safe" },
     { id = "1240432115800211457", reason = "Suck My Dick" },
     { id = "1452665548943921287", reason = "Suck My Dick" },
