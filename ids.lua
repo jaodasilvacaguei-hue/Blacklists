@@ -1,6 +1,7 @@
 return {
     { id = "541253793405337600", reason = "Fxis Gay"},
     { id = "1448769037134856253", reason = "Not Safe" },
+    { id = "1349041898148335618", reason = "Good Try Nigger" },
     { id = "1289604641742524570", reason = "Quebra De Linha Com Break"},
     { id = "1379259528281067561", reason = "Quebra De Linha Com Break"},
     { id = "1112886240254103602", reason = "Tomar Key Lifetime Ai" },
