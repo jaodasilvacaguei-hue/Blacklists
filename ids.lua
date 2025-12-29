@@ -11,4 +11,5 @@ return {
     { id = "1326000567213883422", reason = "Suck My Dick" },
     { id = "1447977804905058391", reason = "Suck My Dick" },
     { id = "1139494865873403964", reason = "Suck My Dick" },
+    { id = "1208368015914176543", reason = "Suck My Dick Nigger" },
 }
