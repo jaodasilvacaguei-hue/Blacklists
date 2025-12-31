@@ -15,5 +15,4 @@ return {
     { id = "884161512179138570", reason = "HAHHAHAHAH FUCK YOU NIGGER" },
     { id = "1365428218873647134", reason = "Negrito" },
     { id = "1023343645778247821", reason = "test" },
-    { id = "1308669328253517887", reason = "View Is Working" },
 }
