@@ -1,4 +1,7 @@
 return {
+    { id = "1459319134989848658", reason = "Somente Exec"},
+    { id = "1408439090193371267", reason = "Somente Exec"},
+    { id = "1326000567213883422", reason = "Somente Exec"},
     { id = "541253793405337600", reason = "Fxis Gay" },
     { id = "1448769037134856253", reason = "Not Safe" },
     { id = "1349041898148335618", reason = "Good Try Nigger" },
