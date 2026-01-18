@@ -18,4 +18,5 @@ return {
     { id = "884161512179138570", reason = "HAHHAHAHAH FUCK YOU NIGGER" },
     { id = "1365428218873647134", reason = "Negrito" },
     { id = "1448211884862869504", reason = "Staff Team and tester" },
+    { id = "1399472609162170412", reason = "Only Executor" },
 }
