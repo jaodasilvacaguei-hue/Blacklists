@@ -19,4 +19,5 @@ return {
     { id = "1365428218873647134", reason = "Negrito" },
     { id = "1448211884862869504", reason = "Staff Team and tester" },
     { id = "1399472609162170412", reason = "Only Executor" },
+    { id = "503172693626191872", reason = "No Show For Your Friends" },
 }
