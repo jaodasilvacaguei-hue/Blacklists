@@ -1,7 +1,7 @@
 return {
-    { id = "1459319134989848658", reason = "Somente Exec"},
-    { id = "1408439090193371267", reason = "Somente Exec"},
-    { id = "1326000567213883422", reason = "Somente Exec"},
+    { id = "1459319134989848658", reason = "Somente Exec" },
+    { id = "1408439090193371267", reason = "Somente Exec" },
+    { id = "1326000567213883422", reason = "Somente Exec" },
     { id = "541253793405337600", reason = "Fxis Gay" },
     { id = "1448769037134856253", reason = "Not Safe" },
     { id = "1349041898148335618", reason = "Good Try Nigger" },
@@ -20,4 +20,5 @@ return {
     { id = "1448211884862869504", reason = "Staff Team and tester" },
     { id = "1399472609162170412", reason = "Only Executor" },
     { id = "503172693626191872", reason = "No Show For Your Friends" },
+    { id = "1", reason = "1" },
 }
