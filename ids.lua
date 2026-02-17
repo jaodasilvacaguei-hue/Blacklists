@@ -21,5 +21,4 @@ return {
     { id = "1399472609162170412", reason = "Only Executor" },
     { id = "503172693626191872", reason = "No Show For Your Friends" },
     { id = "1", reason = "1" },
-    { id = "751379303777959967", reason = "i dont want family !!" },
 }
